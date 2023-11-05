@@ -1,7 +1,5 @@
 <?PHP
-/*
-Program Name:	insert_customer.php
-*/
+
 include("../model/connect_db.php") ;
 
 $firstname = mysqli_real_escape_string($conn, $_POST['firstname']);

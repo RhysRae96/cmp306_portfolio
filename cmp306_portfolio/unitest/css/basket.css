@@ -1,0 +1,34 @@
+/* Style the cart container */
+.cart-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  /* Style the cart items */
+  .cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .cart-item img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .cart-item p {
+    margin: 0;
+  }
+  
+  /* Style the cart total */
+  .cart-total {
+    margin-top: 20px;
+    text-align: right;
+  }
+  
+  .cart-total p {
+    margin: 0;
+    font-weight: bold;
+  }

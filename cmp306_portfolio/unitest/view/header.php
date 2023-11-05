@@ -15,6 +15,7 @@ include("../model/connect_db.php") ;
   
   <!-- Custom styles for this template -->
   <link href="../css/simple-sidebar.css" rel="stylesheet">
+  <link href="../css/basket.css" rel="stylesheet">
   
 	<script type="text/javascript" 
 		src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1','packages':['corechart'],'language':'ru'}]}">
